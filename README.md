@@ -79,20 +79,21 @@ Using clear and consistent formatting methods:
 
 ## How to Use This Repository
 
-1. Clone the repository:
+**1.** Clone the repository:
 ``` python
 git clone <repository-url>
 
 ``` 
-2. Navigate to the project directory:
+**2.** Navigate to the project directory:
 ``` python
 cd Data\ Types
 ```
-3. Open and run the notebook:
+**3.** Open and run the notebook:
 ``` python
 jupyter notebook Streamline_your_print_statements_exercise.ipynb
 ```
-4. Complete each exercise and compare your solutions with the provided examples.
+**4.** Complete each exercise and compare your solutions with the provided examples.
 
-Author: ### Ibrahim Ambale
+Author: **Ibrahim Ambale**
+
 Focus: Python fundamentals, string formatting, and clean code practices.
